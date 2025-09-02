@@ -1,0 +1,1 @@
+alert("Nimoderrimo perdiste! Tienes cero")
